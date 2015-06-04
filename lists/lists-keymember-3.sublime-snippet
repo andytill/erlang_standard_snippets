@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:keymember(${1:Key}, ${2:N}, ${3:TupleList})
+]]></content>
+    <tabTrigger>lists:keymember</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:keymember/3</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:sublist(${1:List1}, ${2:Len})
+]]></content>
+    <tabTrigger>lists:sublist</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:sublist/2</description>
+</snippet>

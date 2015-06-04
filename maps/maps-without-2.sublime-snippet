@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maps:without(${1:Ks}, ${2:Map1})
+]]></content>
+    <tabTrigger>maps:without</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>maps:without/2</description>
+</snippet>

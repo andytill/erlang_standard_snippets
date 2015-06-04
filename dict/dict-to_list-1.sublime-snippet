@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:to_list(${1:Dict})
+]]></content>
+    <tabTrigger>dict:to_list</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:to_list/1</description>
+</snippet>

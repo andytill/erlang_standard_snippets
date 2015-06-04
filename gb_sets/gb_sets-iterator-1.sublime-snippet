@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:iterator(${1:Set})
+]]></content>
+    <tabTrigger>gb_sets:iterator</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:iterator/1</description>
+</snippet>

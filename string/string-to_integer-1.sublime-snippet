@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:to_integer(${1:String})
+]]></content>
+    <tabTrigger>string:to_integer</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:to_integer/1</description>
+</snippet>

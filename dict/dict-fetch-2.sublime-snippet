@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:fetch(${1:Key}, ${2:Dict})
+]]></content>
+    <tabTrigger>dict:fetch</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:fetch/2</description>
+</snippet>

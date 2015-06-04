@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:init_table(${1:Tab}, ${2:InitFun})
+]]></content>
+    <tabTrigger>ets:init_table</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:init_table/2</description>
+</snippet>

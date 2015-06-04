@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sets:intersection(${1:SetList})
+]]></content>
+    <tabTrigger>sets:intersection</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>sets:intersection/1</description>
+</snippet>

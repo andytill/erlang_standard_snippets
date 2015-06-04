@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:map(${1:Fun}, ${2:List1})
+]]></content>
+    <tabTrigger>lists:map</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:map/2</description>
+</snippet>

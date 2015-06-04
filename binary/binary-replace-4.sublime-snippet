@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:replace(${1:Subject}, ${2:Pattern}, ${3:Replacement}, ${4:Options})
+]]></content>
+    <tabTrigger>binary:replace</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:replace/4</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:is_element(${1:Element}, ${2:Set})
+]]></content>
+    <tabTrigger>gb_sets:is_element</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:is_element/2</description>
+</snippet>

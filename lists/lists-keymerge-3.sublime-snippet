@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:keymerge(${1:N}, ${2:TupleList1}, ${3:TupleList2})
+]]></content>
+    <tabTrigger>lists:keymerge</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:keymerge/3</description>
+</snippet>

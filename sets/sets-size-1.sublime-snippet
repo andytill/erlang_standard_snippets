@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sets:size(${1:Set})
+]]></content>
+    <tabTrigger>sets:size</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>sets:size/1</description>
+</snippet>

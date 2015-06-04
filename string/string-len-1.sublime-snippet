@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:len(${1:String})
+]]></content>
+    <tabTrigger>string:len</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:len/1</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:test_ms(${1:Tuple}, ${2:MatchSpec})
+]]></content>
+    <tabTrigger>ets:test_ms</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:test_ms/2</description>
+</snippet>

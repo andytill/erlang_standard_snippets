@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:last(${1:Tab})
+]]></content>
+    <tabTrigger>ets:last</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:last/1</description>
+</snippet>

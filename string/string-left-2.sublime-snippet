@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:left(${1:String}, ${2:Number})
+]]></content>
+    <tabTrigger>string:left</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:left/2</description>
+</snippet>

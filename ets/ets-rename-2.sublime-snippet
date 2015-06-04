@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:rename(${1:Tab}, ${2:Name})
+]]></content>
+    <tabTrigger>ets:rename</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:rename/2</description>
+</snippet>

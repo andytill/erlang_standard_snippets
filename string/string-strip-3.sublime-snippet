@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:strip(${1:String}, ${2:Direction}, ${3:Character})
+]]></content>
+    <tabTrigger>string:strip</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:strip/3</description>
+</snippet>

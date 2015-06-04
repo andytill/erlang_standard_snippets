@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sets:add_element(${1:Element}, ${2:Set1})
+]]></content>
+    <tabTrigger>sets:add_element</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>sets:add_element/2</description>
+</snippet>

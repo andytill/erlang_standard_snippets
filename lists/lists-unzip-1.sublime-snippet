@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:unzip(${1:List1})
+]]></content>
+    <tabTrigger>lists:unzip</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:unzip/1</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:all()
+]]></content>
+    <tabTrigger>ets:all</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:all/0</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:seq(${1:From}, ${2:To})
+]]></content>
+    <tabTrigger>lists:seq</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:seq/2</description>
+</snippet>

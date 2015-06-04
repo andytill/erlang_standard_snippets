@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:copy(${1:Subject})
+]]></content>
+    <tabTrigger>binary:copy</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:copy/1</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:max(${1:List})
+]]></content>
+    <tabTrigger>lists:max</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:max/1</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:merge(${1:Fun}, ${2:List1}, ${3:List2})
+]]></content>
+    <tabTrigger>lists:merge</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:merge/3</description>
+</snippet>

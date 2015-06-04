@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:dropwhile(${1:Pred}, ${2:List1})
+]]></content>
+    <tabTrigger>lists:dropwhile</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:dropwhile/2</description>
+</snippet>

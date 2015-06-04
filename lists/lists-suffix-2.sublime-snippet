@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:suffix(${1:List1}, ${2:List2})
+]]></content>
+    <tabTrigger>lists:suffix</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:suffix/2</description>
+</snippet>

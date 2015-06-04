@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:to_list(${1:Set})
+]]></content>
+    <tabTrigger>gb_sets:to_list</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:to_list/1</description>
+</snippet>

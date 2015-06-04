@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:usort(${1:Fun}, ${2:List1})
+]]></content>
+    <tabTrigger>lists:usort</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:usort/2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:keymap(${1:Fun}, ${2:N}, ${3:TupleList1})
+]]></content>
+    <tabTrigger>lists:keymap</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:keymap/3</description>
+</snippet>

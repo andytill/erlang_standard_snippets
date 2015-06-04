@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:keytake(${1:Key}, ${2:N}, ${3:TupleList1})
+]]></content>
+    <tabTrigger>lists:keytake</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:keytake/3</description>
+</snippet>

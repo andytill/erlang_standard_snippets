@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maps:merge(${1:Map1}, ${2:Map2})
+]]></content>
+    <tabTrigger>maps:merge</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>maps:merge/2</description>
+</snippet>

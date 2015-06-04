@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:encode_unsigned(${1:Unsigned})
+]]></content>
+    <tabTrigger>binary:encode_unsigned</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:encode_unsigned/1</description>
+</snippet>

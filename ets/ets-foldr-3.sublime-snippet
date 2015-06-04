@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:foldr(${1:Function}, ${2:Acc0}, ${3:Tab})
+]]></content>
+    <tabTrigger>ets:foldr</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:foldr/3</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:is_empty(${1:Dict})
+]]></content>
+    <tabTrigger>dict:is_empty</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:is_empty/1</description>
+</snippet>

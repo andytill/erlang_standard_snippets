@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:filter(${1:Pred}, ${2:Set1})
+]]></content>
+    <tabTrigger>gb_sets:filter</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:filter/2</description>
+</snippet>

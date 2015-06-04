@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maps:new()
+]]></content>
+    <tabTrigger>maps:new</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>maps:new/0</description>
+</snippet>

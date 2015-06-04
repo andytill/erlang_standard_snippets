@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:zip3(${1:List1}, ${2:List2}, ${3:List3})
+]]></content>
+    <tabTrigger>lists:zip3</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:zip3/3</description>
+</snippet>

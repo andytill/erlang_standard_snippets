@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:delete(${1:Tab})
+]]></content>
+    <tabTrigger>ets:delete</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:delete/1</description>
+</snippet>

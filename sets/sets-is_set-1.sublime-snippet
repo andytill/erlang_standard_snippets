@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sets:is_set(${1:Set})
+]]></content>
+    <tabTrigger>sets:is_set</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>sets:is_set/1</description>
+</snippet>

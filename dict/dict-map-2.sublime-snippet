@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:map(${1:Fun}, ${2:Dict1})
+]]></content>
+    <tabTrigger>dict:map</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:map/2</description>
+</snippet>

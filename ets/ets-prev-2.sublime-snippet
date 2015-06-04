@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:prev(${1:Tab}, ${2:Key1})
+]]></content>
+    <tabTrigger>ets:prev</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:prev/2</description>
+</snippet>

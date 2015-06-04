@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:append(${1:List1}, ${2:List2})
+]]></content>
+    <tabTrigger>lists:append</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:append/2</description>
+</snippet>

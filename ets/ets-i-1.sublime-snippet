@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:i(${1:Tab})
+]]></content>
+    <tabTrigger>ets:i</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:i/1</description>
+</snippet>

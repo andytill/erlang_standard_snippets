@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:find(${1:Key}, ${2:Dict})
+]]></content>
+    <tabTrigger>dict:find</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:find/2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:duplicate(${1:N}, ${2:Elem})
+]]></content>
+    <tabTrigger>lists:duplicate</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:duplicate/2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:join(${1:StringList}, ${2:Separator})
+]]></content>
+    <tabTrigger>string:join</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:join/2</description>
+</snippet>

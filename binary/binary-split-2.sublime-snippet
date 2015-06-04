@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:split(${1:Subject}, ${2:Pattern})
+]]></content>
+    <tabTrigger>binary:split</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:split/2</description>
+</snippet>

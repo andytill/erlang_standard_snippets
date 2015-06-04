@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:zipwith3(${1:Combine}, ${2:List1}, ${3:List2}, ${4:List3})
+]]></content>
+    <tabTrigger>lists:zipwith3</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:zipwith3/4</description>
+</snippet>

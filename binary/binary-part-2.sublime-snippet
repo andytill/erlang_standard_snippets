@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:part(${1:Subject}, ${2:PosLen})
+]]></content>
+    <tabTrigger>binary:part</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:part/2</description>
+</snippet>

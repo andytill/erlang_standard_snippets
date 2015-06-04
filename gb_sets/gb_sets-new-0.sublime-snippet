@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:new()
+]]></content>
+    <tabTrigger>gb_sets:new</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:new/0</description>
+</snippet>

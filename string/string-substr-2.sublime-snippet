@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:substr(${1:String}, ${2:Start})
+]]></content>
+    <tabTrigger>string:substr</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:substr/2</description>
+</snippet>

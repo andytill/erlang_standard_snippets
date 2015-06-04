@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:bin_to_list(${1:Subject}, ${2:PosLen})
+]]></content>
+    <tabTrigger>binary:bin_to_list</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:bin_to_list/2</description>
+</snippet>

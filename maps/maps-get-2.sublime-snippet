@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maps:get(${1:Key}, ${2:Map})
+]]></content>
+    <tabTrigger>maps:get</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>maps:get/2</description>
+</snippet>

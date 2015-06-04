@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:foldl(${1:Function}, ${2:Acc0}, ${3:Tab})
+]]></content>
+    <tabTrigger>ets:foldl</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:foldl/3</description>
+</snippet>

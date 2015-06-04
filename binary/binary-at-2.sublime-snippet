@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:at(${1:Subject}, ${2:Pos})
+]]></content>
+    <tabTrigger>binary:at</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:at/2</description>
+</snippet>

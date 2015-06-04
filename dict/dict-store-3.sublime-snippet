@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:store(${1:Key}, ${2:Value}, ${3:Dict1})
+]]></content>
+    <tabTrigger>dict:store</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:store/3</description>
+</snippet>

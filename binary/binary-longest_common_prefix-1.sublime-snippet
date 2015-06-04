@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:longest_common_prefix(${1:Binaries})
+]]></content>
+    <tabTrigger>binary:longest_common_prefix</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:longest_common_prefix/1</description>
+</snippet>

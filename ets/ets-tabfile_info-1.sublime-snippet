@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:tabfile_info(${1:Filename})
+]]></content>
+    <tabTrigger>ets:tabfile_info</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:tabfile_info/1</description>
+</snippet>

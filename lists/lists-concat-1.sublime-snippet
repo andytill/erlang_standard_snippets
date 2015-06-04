@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:concat(${1:Things})
+]]></content>
+    <tabTrigger>lists:concat</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:concat/1</description>
+</snippet>

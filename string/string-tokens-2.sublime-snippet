@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:tokens(${1:String}, ${2:SeparatorList})
+]]></content>
+    <tabTrigger>string:tokens</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:tokens/2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:from_ordset(${1:List})
+]]></content>
+    <tabTrigger>gb_sets:from_ordset</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:from_ordset/1</description>
+</snippet>

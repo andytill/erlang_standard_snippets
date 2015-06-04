@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:delete(${1:Element}, ${2:Set1})
+]]></content>
+    <tabTrigger>gb_sets:delete</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:delete/2</description>
+</snippet>

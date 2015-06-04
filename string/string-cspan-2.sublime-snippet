@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:cspan(${1:String}, ${2:Chars})
+]]></content>
+    <tabTrigger>string:cspan</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:cspan/2</description>
+</snippet>

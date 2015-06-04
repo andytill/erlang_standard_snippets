@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:flatmap(${1:Fun}, ${2:List1})
+]]></content>
+    <tabTrigger>lists:flatmap</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:flatmap/2</description>
+</snippet>

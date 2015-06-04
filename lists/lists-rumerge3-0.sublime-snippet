@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:rumerge3()
+]]></content>
+    <tabTrigger>lists:rumerge3</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:rumerge3/0</description>
+</snippet>

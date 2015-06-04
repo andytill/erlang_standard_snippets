@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:size(${1:Dict})
+]]></content>
+    <tabTrigger>dict:size</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:size/1</description>
+</snippet>

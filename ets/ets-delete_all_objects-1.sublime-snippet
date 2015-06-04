@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:delete_all_objects(${1:Tab})
+]]></content>
+    <tabTrigger>ets:delete_all_objects</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:delete_all_objects/1</description>
+</snippet>

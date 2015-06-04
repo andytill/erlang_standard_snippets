@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:smallest(${1:Set})
+]]></content>
+    <tabTrigger>gb_sets:smallest</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:smallest/1</description>
+</snippet>

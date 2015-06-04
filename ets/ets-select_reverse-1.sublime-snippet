@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:select_reverse(${1:Continuation})
+]]></content>
+    <tabTrigger>ets:select_reverse</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:select_reverse/1</description>
+</snippet>

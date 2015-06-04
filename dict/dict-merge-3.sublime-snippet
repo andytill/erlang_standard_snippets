@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:merge(${1:Fun}, ${2:Dict1}, ${3:Dict2})
+]]></content>
+    <tabTrigger>dict:merge</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:merge/3</description>
+</snippet>

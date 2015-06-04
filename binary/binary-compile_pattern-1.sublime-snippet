@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:compile_pattern(${1:Pattern})
+]]></content>
+    <tabTrigger>binary:compile_pattern</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:compile_pattern/1</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sets:del_element(${1:Element}, ${2:Set1})
+]]></content>
+    <tabTrigger>sets:del_element</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>sets:del_element/2</description>
+</snippet>

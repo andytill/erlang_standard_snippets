@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:partition(${1:Pred}, ${2:List})
+]]></content>
+    <tabTrigger>lists:partition</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:partition/2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:last(${1:List})
+]]></content>
+    <tabTrigger>lists:last</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:last/1</description>
+</snippet>

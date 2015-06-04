@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:fold(${1:Fun}, ${2:Acc0}, ${3:Dict})
+]]></content>
+    <tabTrigger>dict:fold</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:fold/3</description>
+</snippet>

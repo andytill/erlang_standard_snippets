@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:keysearch(${1:Key}, ${2:N}, ${3:TupleList})
+]]></content>
+    <tabTrigger>lists:keysearch</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:keysearch/3</description>
+</snippet>

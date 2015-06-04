@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:nthtail(${1:N}, ${2:List})
+]]></content>
+    <tabTrigger>lists:nthtail</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:nthtail/2</description>
+</snippet>

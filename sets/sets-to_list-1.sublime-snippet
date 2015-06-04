@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sets:to_list(${1:Set})
+]]></content>
+    <tabTrigger>sets:to_list</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>sets:to_list/1</description>
+</snippet>

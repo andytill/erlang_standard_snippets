@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:keydelete(${1:Key}, ${2:N}, ${3:TupleList1})
+]]></content>
+    <tabTrigger>lists:keydelete</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:keydelete/3</description>
+</snippet>

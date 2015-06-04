@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:chars(${1:Character}, ${2:Number}, ${3:Tail})
+]]></content>
+    <tabTrigger>string:chars</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:chars/3</description>
+</snippet>

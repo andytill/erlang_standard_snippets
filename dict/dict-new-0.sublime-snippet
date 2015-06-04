@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:new()
+]]></content>
+    <tabTrigger>dict:new</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:new/0</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:update(${1:Key}, ${2:Fun}, ${3:Initial}, ${4:Dict1})
+]]></content>
+    <tabTrigger>dict:update</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:update/4</description>
+</snippet>

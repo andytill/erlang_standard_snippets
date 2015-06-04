@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:largest(${1:Set})
+]]></content>
+    <tabTrigger>gb_sets:largest</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:largest/1</description>
+</snippet>

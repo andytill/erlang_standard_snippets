@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:words(${1:String})
+]]></content>
+    <tabTrigger>string:words</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:words/1</description>
+</snippet>

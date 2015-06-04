@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:filter(${1:Pred}, ${2:List1})
+]]></content>
+    <tabTrigger>lists:filter</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:filter/2</description>
+</snippet>

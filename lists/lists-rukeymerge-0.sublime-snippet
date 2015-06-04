@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:rukeymerge()
+]]></content>
+    <tabTrigger>lists:rukeymerge</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:rukeymerge/0</description>
+</snippet>

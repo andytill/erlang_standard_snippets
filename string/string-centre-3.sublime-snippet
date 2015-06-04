@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:centre(${1:String}, ${2:Number}, ${3:Character})
+]]></content>
+    <tabTrigger>string:centre</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:centre/3</description>
+</snippet>

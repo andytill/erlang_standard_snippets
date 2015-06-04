@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:equal(${1:String1}, ${2:String2})
+]]></content>
+    <tabTrigger>string:equal</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:equal/2</description>
+</snippet>

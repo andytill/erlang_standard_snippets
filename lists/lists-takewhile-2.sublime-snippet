@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:takewhile(${1:Pred}, ${2:List1})
+]]></content>
+    <tabTrigger>lists:takewhile</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:takewhile/2</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:umerge(${1:Fun}, ${2:List1}, ${3:List2})
+]]></content>
+    <tabTrigger>lists:umerge</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:umerge/3</description>
+</snippet>

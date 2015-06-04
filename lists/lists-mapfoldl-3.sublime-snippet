@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:mapfoldl(${1:Fun}, ${2:Acc0}, ${3:List1})
+]]></content>
+    <tabTrigger>lists:mapfoldl</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:mapfoldl/3</description>
+</snippet>

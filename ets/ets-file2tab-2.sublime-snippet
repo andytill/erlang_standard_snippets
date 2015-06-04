@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:file2tab(${1:Filename}, ${2:Options})
+]]></content>
+    <tabTrigger>ets:file2tab</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:file2tab/2</description>
+</snippet>

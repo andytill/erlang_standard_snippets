@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:append(${1:Key}, ${2:Value}, ${3:Dict1})
+]]></content>
+    <tabTrigger>dict:append</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:append/3</description>
+</snippet>

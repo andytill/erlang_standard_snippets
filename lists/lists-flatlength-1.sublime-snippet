@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:flatlength(${1:DeepList})
+]]></content>
+    <tabTrigger>lists:flatlength</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:flatlength/1</description>
+</snippet>

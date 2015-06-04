@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:intersection(${1:SetList})
+]]></content>
+    <tabTrigger>gb_sets:intersection</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:intersection/1</description>
+</snippet>

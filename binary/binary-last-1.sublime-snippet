@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:last(${1:Subject})
+]]></content>
+    <tabTrigger>binary:last</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:last/1</description>
+</snippet>

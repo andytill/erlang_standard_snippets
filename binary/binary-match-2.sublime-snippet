@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:match(${1:Subject}, ${2:Pattern})
+]]></content>
+    <tabTrigger>binary:match</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:match/2</description>
+</snippet>

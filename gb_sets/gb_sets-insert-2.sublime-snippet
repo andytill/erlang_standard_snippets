@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:insert(${1:Element}, ${2:Set1})
+]]></content>
+    <tabTrigger>gb_sets:insert</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:insert/2</description>
+</snippet>

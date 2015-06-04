@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+sets:union(${1:Set1}, ${2:Set2})
+]]></content>
+    <tabTrigger>sets:union</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>sets:union/2</description>
+</snippet>

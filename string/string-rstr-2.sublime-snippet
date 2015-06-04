@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:rstr(${1:String}, ${2:SubString})
+]]></content>
+    <tabTrigger>string:rstr</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:rstr/2</description>
+</snippet>

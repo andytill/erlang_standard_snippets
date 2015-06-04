@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:fun2ms(${1:LiteralFun})
+]]></content>
+    <tabTrigger>ets:fun2ms</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:fun2ms/1</description>
+</snippet>

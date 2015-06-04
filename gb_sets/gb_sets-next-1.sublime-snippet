@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:next(${1:Iter1})
+]]></content>
+    <tabTrigger>gb_sets:next</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:next/1</description>
+</snippet>

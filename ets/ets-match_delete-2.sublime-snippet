@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:match_delete(${1:Tab}, ${2:Pattern})
+]]></content>
+    <tabTrigger>ets:match_delete</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:match_delete/2</description>
+</snippet>

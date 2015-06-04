@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:referenced_byte_size(${1:Binary})
+]]></content>
+    <tabTrigger>binary:referenced_byte_size</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:referenced_byte_size/1</description>
+</snippet>

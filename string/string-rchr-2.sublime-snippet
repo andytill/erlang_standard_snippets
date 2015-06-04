@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string:rchr(${1:String}, ${2:Character})
+]]></content>
+    <tabTrigger>string:rchr</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>string:rchr/2</description>
+</snippet>

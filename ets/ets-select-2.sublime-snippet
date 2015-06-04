@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:select(${1:Tab}, ${2:MatchSpec})
+]]></content>
+    <tabTrigger>ets:select</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:select/2</description>
+</snippet>

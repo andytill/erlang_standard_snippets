@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+binary:list_to_bin(${1:ByteList})
+]]></content>
+    <tabTrigger>binary:list_to_bin</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>binary:list_to_bin/1</description>
+</snippet>

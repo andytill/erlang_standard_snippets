@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dict:is_key(${1:Key}, ${2:Dict})
+]]></content>
+    <tabTrigger>dict:is_key</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>dict:is_key/2</description>
+</snippet>

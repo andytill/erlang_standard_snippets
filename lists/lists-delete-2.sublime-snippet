@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:delete(${1:Elem}, ${2:List1})
+]]></content>
+    <tabTrigger>lists:delete</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:delete/2</description>
+</snippet>

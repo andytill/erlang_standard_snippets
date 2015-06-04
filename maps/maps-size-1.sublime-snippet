@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maps:size(${1:Map})
+]]></content>
+    <tabTrigger>maps:size</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>maps:size/1</description>
+</snippet>

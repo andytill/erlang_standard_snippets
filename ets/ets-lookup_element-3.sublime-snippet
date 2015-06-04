@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:lookup_element(${1:Tab}, ${2:Key}, ${3:Pos})
+]]></content>
+    <tabTrigger>ets:lookup_element</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:lookup_element/3</description>
+</snippet>

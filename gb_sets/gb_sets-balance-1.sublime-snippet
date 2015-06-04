@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:balance(${1:Set1})
+]]></content>
+    <tabTrigger>gb_sets:balance</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:balance/1</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:next(${1:Tab}, ${2:Key1})
+]]></content>
+    <tabTrigger>ets:next</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:next/2</description>
+</snippet>

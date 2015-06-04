@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+maps:from_list(${1:List})
+]]></content>
+    <tabTrigger>maps:from_list</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>maps:from_list/1</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:keysort(${1:N}, ${2:TupleList1})
+]]></content>
+    <tabTrigger>lists:keysort</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:keysort/2</description>
+</snippet>

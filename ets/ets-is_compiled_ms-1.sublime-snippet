@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:is_compiled_ms(${1:Term})
+]]></content>
+    <tabTrigger>ets:is_compiled_ms</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:is_compiled_ms/1</description>
+</snippet>

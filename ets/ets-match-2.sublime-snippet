@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:match(${1:Tab}, ${2:Pattern})
+]]></content>
+    <tabTrigger>ets:match</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:match/2</description>
+</snippet>

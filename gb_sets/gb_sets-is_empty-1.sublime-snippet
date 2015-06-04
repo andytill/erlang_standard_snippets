@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gb_sets:is_empty(${1:Set})
+]]></content>
+    <tabTrigger>gb_sets:is_empty</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>gb_sets:is_empty/1</description>
+</snippet>
