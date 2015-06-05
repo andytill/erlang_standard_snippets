@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:match_spec_run_r(${1:List}, ${2:CompiledMatchSpec}, ${3:List})
+]]></content>
+    <tabTrigger>ets:match_spec_run_r</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:match_spec_run_r/3</description>
+</snippet>

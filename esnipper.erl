@@ -46,7 +46,26 @@ arg_names_from_args_spec(0, _) ->
 arg_names_from_args_spec(Arity, [{type,_, bounded_fun, Spec} | _]) ->
     arg_names_from_args_spec(Arity, Spec);
 arg_names_from_args_spec(_Arity, [{type, _, 'fun', [{type,_,product,Args} | _]} | _]) ->
-    [atom_to_list(Var_name) || {var,_,Var_name} <- Args].
+    [arg_name(A) || A <- Args].
+
+%%
+arg_name({var,_,Var_name}) ->
+    atom_to_list(Var_name);
+arg_name({ann_type,_,[Annotated_arg | _]}) -> 
+    % ann_type happens for specs like...
+    % -spec update_element(Tab, Key, ElementSpec :: {Pos, Value}) -> boolean().
+    % ...the last arg gets turned into the following AST...
+    % {ann_type,430,
+    %   [{var,430,'ElementSpec'},
+    %    {type,430,tuple,[{var,430,'Pos'},{var,430,'Value'}]}]}
+    % TODO it would be nice to offer the literal {Pos, Value} in the snippet instead of ElementSpec.
+    arg_name(Annotated_arg); 
+arg_name({type,_,Type_name,_}) ->
+    % the type tuple happens when a type is given without a var name i.e.
+    % -spec my_func(string()) -> ok.
+    [First_char | Tail] = atom_to_list(Type_name),
+    [Upper_first_char] = string:to_upper([First_char]),
+    [Upper_first_char | Tail].
 
 %%
 default_arg_names(Arity) ->

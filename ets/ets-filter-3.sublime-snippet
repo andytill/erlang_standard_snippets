@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ets:filter(${1:Tab}, ${2:Function}, ${3:List})
+]]></content>
+    <tabTrigger>ets:filter</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>ets:filter/3</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+lists:rmerge(${1:Fun}, ${2:List}, ${3:List})
+]]></content>
+    <tabTrigger>lists:rmerge</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>lists:rmerge/3</description>
+</snippet>
